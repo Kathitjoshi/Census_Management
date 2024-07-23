@@ -1,2 +1,2 @@
 # Census_Management
-Consists of two codes for census management using C.
+This Consists of two codes ,The first one will give you the data automatically on your screen after all of it is entered  while the next one will write the data given to a file which is stored for future retrieval purposes ; However one should know that the data to be entered is census of people living on Earth by age and location(continents) and can be used to to enter the correct data if to be used for serious/practical purposes or can be used for nonchalant purposes as well!
