@@ -2,6 +2,11 @@
 
 A comprehensive C-based application for managing and analyzing census data with user authentication, data visualization, and file persistence capabilities.
 
+![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=python)
+![Output](https://img.shields.io/badge/Output-File-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
